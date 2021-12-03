@@ -18,4 +18,3 @@ O [**e-ambiente**](https://e.ambiente.sp.gov.br/atendimento/) disponibiliza os a
 
 É possível fazer isso manualmente, por meio da aba *Busca de Serviços*, selecionando o *CETESB - Pedido de Vistas: Agências* e inserindo o número de processo.
 **Os números de processo utilizados no e-ambiente são diferentes daqueles obtidos nas licenças ambientais. Dessa forma, faz-se necessário solicitar, via e-mail, para a Agência Ambiental em que o processo tramita, os números correspondentes.**
-
