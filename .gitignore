@@ -1,5 +1,10 @@
-adds/
-example_mail.md
+# Paths
+scrapy/
+docs/
+data/
+
+# Files
+*example_mail.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
