@@ -3,6 +3,10 @@ scrapy/
 docs/
 data/
 
+# IDE
+.vscode/
+.idea/
+
 # Files
 *example_mail.md
 
