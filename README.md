@@ -28,3 +28,12 @@ O [**e-ambiente**](https://e.ambiente.sp.gov.br/atendimento/) disponibiliza os a
 <br>
 
 **Obs: Os números de processo utilizados no e-ambiente são diferentes daqueles obtidos nas licenças ambientais. Dessa forma, faz-se necessário solicitar, via e-mail, para a Agência Ambiental em que o processo tramita, os números correspondentes.**
+
+<br>
+
+---
+
+### _TODO_
+
+1. Ajustar função de download.
+2. ...

@@ -20,6 +20,8 @@ adds_path.mkdir(exist_ok=True)
 data_path = project_path / 'data'
 data_path.mkdir(exist_ok=True)
 
+temp_path = data_path / 'temp'
+temp_path.mkdir(exist_ok=True)
 
 if __name__ == '__main__':
     print(f'A pasta do projeto é: {project_path}')
