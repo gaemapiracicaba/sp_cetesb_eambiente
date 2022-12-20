@@ -1,5 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
+"""
+Pastas do projeto
+dez.22
+"""
 
 from pathlib import Path
 
@@ -24,8 +26,4 @@ temp_path = data_path / 'temp'
 temp_path.mkdir(exist_ok=True)
 
 if __name__ == '__main__':
-    print(f'A pasta do projeto é: {project_path}')
-    print(f'A pasta do scrapy é:  {scrapy_path}')
-    print(f'A pasta do driver é:  {driver_path}')
-    print(f'A pasta do log é:     {log_path}')
-    print(f'A pasta do adds é:    {adds_path}')
+    print(project_path)

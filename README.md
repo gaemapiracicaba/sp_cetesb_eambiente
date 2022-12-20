@@ -35,5 +35,5 @@ O [**e-ambiente**](https://e.ambiente.sp.gov.br/atendimento/) disponibiliza os a
 
 ### _TODO_
 
-1. Ajustar função de download.
+1. Ajustar função de _download_.
 2. ...
