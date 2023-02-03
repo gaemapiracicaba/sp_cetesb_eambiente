@@ -17,12 +17,18 @@ class Driver(webdriver.Firefox):
     :param webdriver: _description_
     :type webdriver: _type_
     """
+<<<<<<< HEAD
 
     def __init__(
         self, my_driver_path, my_logs_path, my_download_path, *args, **kwargs
     ):
         """
 
+=======
+    def __init__(self, my_driver_path, my_logs_path, my_download_path, *args, **kwargs):
+        """
+        
+>>>>>>> 0d498b66f85d3d07f76aa8e4ae394a13a39d067e
         verify_ssl
 
         :param my_driver_path: _description_
@@ -32,7 +38,12 @@ class Driver(webdriver.Firefox):
         """
         # Services
         gecko_path = gecko.get_path_geckodriver(
+<<<<<<< HEAD
             my_driver_path, verify_ssl=kwargs['verify_ssl']
+=======
+            my_driver_path,
+            verify_ssl=kwargs['verify_ssl']
+>>>>>>> 0d498b66f85d3d07f76aa8e4ae394a13a39d067e
         )
 
         # Logs
@@ -48,9 +59,13 @@ class Driver(webdriver.Firefox):
         my_options.headless = False
         my_options.set_preference('intl.accept_languages', 'pt-BR, pt')
         my_options.set_preference('browser.download.folderList', 2)
+<<<<<<< HEAD
         my_options.set_preference(
             'browser.download.manager.showWhenStarting', False
         )
+=======
+        my_options.set_preference('browser.download.manager.showWhenStarting', False)
+>>>>>>> 0d498b66f85d3d07f76aa8e4ae394a13a39d067e
         my_options.set_preference('browser.download.dir', str(my_download_path))
 
         # Driver
@@ -65,7 +80,12 @@ class Driver(webdriver.Firefox):
         :type my_adds_path: pathlib
         """
         adds.add_extension_xpath(self, my_adds_path)
+<<<<<<< HEAD
 
 
+=======
+        
+        
+>>>>>>> 0d498b66f85d3d07f76aa8e4ae394a13a39d067e
 if __name__ == '__main__':
     pass
