@@ -1,7 +1,5 @@
 # E-Ambiente
 
-<br>
-
 Por meio do _site_ https://e.ambiente.sp.gov.br/atendimento é possível solicitar vista aos processos que tramitam na CETESB. Uma vez deferido o pedido, é possível visualizar e realizar o _download_ dos arquivos que compõe o processo.
 
 O [**e-ambiente**](https://e.ambiente.sp.gov.br/atendimento/) disponibiliza os arquivos individualizados (em formato _pdf_). Ou seja, se um processo é composto por 80 arquivos, será necessário realizar 80 _downloads_ e depois, caso você tenha essa prática, terá que organizar esses 80 arquivos (renomear, alterar pasta etc).
